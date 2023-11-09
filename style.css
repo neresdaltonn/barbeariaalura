@@ -8,6 +8,7 @@ body {
 
 .principal{
     background: #CCCCCC;
+    padding: 30px;
 }
 
 h1 {
@@ -32,6 +33,7 @@ em strong {
 
 .benifícios{
     background: #FFFFFF;
+    padding: 20px;
 }
 
 h2 {
